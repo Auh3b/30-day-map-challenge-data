@@ -2,6 +2,19 @@
   "1": {
     "id": "test-point-layer",
     "title": "Test Point Layer",
-    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/test.geojson"
+    "subject": "Market",
+    "location": "Lilongwe",
+    "description": "Markets in Lilongwe",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/test.geojson",
+    "sources": ["OSM"]
+  },
+  "2": {
+    "id": "test-point-layer",
+    "title": "Test Point Layer",
+    "subject": "Market",
+    "location": "Lilongwe",
+    "description": "Markets in Lilongwe",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/test.geojson",
+    "sources": ["OSM"]
   }
 }
