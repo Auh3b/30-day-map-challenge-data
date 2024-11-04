@@ -1,7 +1,7 @@
 {
   "1": {
     "id": "test-point-layer",
-    "title": "Test Point Layer",
+    "title": "Markets",
     "subject": "Market",
     "location": "Lilongwe",
     "description": "Markets in Lilongwe",
@@ -10,7 +10,7 @@
   },
   "2": {
     "id": "test-point-layer",
-    "title": "Test Point Layer",
+    "title": "Shops",
     "subject": "Shops",
     "location": "Blantyre",
     "description": "Shops in Lilongwe",
