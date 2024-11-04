@@ -1,20 +1,38 @@
 {
   "1": {
-    "id": "test-point-layer",
-    "title": "Markets",
-    "subject": "Market",
-    "location": "Lilongwe",
-    "description": "Markets in Lilongwe",
-    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/test.geojson",
-    "sources": ["OSM"]
+    "id": "health-point-layer",
+    "title": "Health Centers",
+    "subject": "Health",
+    "location": "Malawi",
+    "description": "Health centers in Malawi",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/1/health_centres.geojson",
+    "sources": ["HDX"]
   },
   "2": {
-    "id": "test-point-layer",
+    "id": "rail-line-layer",
     "title": "Shops",
     "subject": "Shops",
     "location": "Blantyre",
     "description": "Shops in Lilongwe",
-    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/test.geojson",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/2/malawi-rail.geojson",
+    "sources": ["OSM"]
+  },
+  "3": {
+    "id": "reserve-shape-layer",
+    "title": "National Reserve",
+    "subject": "nature",
+    "location": "Malawi",
+    "description": "Natural reserve and conservation sites in Malawi",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/3/natural_reserves.geojson",
+    "sources": ["OSM"]
+  },
+  "4": {
+    "id": "malawi-hex-layer",
+    "title": "Malawi H3",
+    "subject": "nature",
+    "location": "Malawi",
+    "description": "Malawi shaped using H3 Hexgons",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/4/malawi_h3_6.json",
     "sources": ["OSM"]
   }
 }
