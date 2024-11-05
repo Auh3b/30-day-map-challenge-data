@@ -1,6 +1,6 @@
 [
   {
-    "dist_name": "Dedza",
+    "NAME": "🚶‍➡️ Dedza",
     "end_lat": -14.2672862587,
     "end_long": 34.2286630952,
     "start_lat": -13.9203419244,
@@ -8,7 +8,7 @@
     "visited": true
   },
   {
-    "dist_name": "Dowa",
+    "NAME": "🚶‍➡️ Dowa",
     "end_lat": -13.5717082783,
     "end_long": 33.7870270651,
     "start_lat": -13.9203419244,
@@ -16,7 +16,7 @@
     "visited": true
   },
   {
-    "dist_name": "Kasungu",
+    "NAME": "🚶‍➡️ Kasungu",
     "end_lat": -12.9868057978,
     "end_long": 33.3856511636,
     "start_lat": -13.9203419244,
@@ -24,7 +24,7 @@
     "visited": true
   },
   {
-    "dist_name": "Lilongwe",
+    "NAME": "🚶‍➡️ Lilongwe",
     "end_lat": -14.0254370101,
     "end_long": 33.6780058566,
     "start_lat": -13.9203419244,
@@ -32,7 +32,7 @@
     "visited": true
   },
   {
-    "dist_name": "Lilongwe City",
+    "NAME": "🚶‍➡️ Lilongwe City",
     "end_lat": -13.9203419244,
     "end_long": 33.7776705012,
     "start_lat": -13.9203419244,
@@ -40,7 +40,7 @@
     "visited": false
   },
   {
-    "dist_name": "Mchinji",
+    "NAME": "🚶‍➡️ Mchinji",
     "end_lat": -13.6937585785,
     "end_long": 33.0561952752,
     "start_lat": -13.9203419244,
@@ -48,7 +48,7 @@
     "visited": true
   },
   {
-    "dist_name": "Nkhotakota",
+    "NAME": "🚶‍➡️ Nkhotakota",
     "end_lat": -12.846899931,
     "end_long": 34.0879165136,
     "start_lat": -13.9203419244,
@@ -56,7 +56,7 @@
     "visited": false
   },
   {
-    "dist_name": "Ntcheu",
+    "NAME": "🚶‍➡️ Ntcheu",
     "end_lat": -14.8128407063,
     "end_long": 34.7152261806,
     "start_lat": -13.9203419244,
@@ -64,7 +64,7 @@
     "visited": true
   },
   {
-    "dist_name": "Ntchisi",
+    "NAME": "🚶‍➡️ Ntchisi",
     "end_lat": -13.3010017934,
     "end_long": 33.9193233209,
     "start_lat": -13.9203419244,
@@ -72,7 +72,7 @@
     "visited": true
   },
   {
-    "dist_name": "Salima",
+    "NAME": "🚶‍➡️ Salima",
     "end_lat": -13.7377647801,
     "end_long": 34.3835841631,
     "start_lat": -13.9203419244,
@@ -80,7 +80,7 @@
     "visited": true
   },
   {
-    "dist_name": "Chitipa",
+    "NAME": "🚶‍➡️ Chitipa",
     "end_lat": -9.9705063014,
     "end_long": 33.505592543,
     "start_lat": -13.9203419244,
@@ -88,7 +88,7 @@
     "visited": true
   },
   {
-    "dist_name": "Karonga",
+    "NAME": "🚶‍➡️ Karonga",
     "end_lat": -10.0870498916,
     "end_long": 33.8828335692,
     "start_lat": -13.9203419244,
@@ -96,7 +96,7 @@
     "visited": false
   },
   {
-    "dist_name": "Likoma",
+    "NAME": "🚶‍➡️ Likoma",
     "end_lat": -12.0610116854,
     "end_long": 34.7156453337,
     "start_lat": -13.9203419244,
@@ -104,7 +104,7 @@
     "visited": false
   },
   {
-    "dist_name": "Mzimba",
+    "NAME": "🚶‍➡️ Mzimba",
     "end_lat": -11.7772421409,
     "end_long": 33.633430199,
     "start_lat": -13.9203419244,
@@ -112,7 +112,7 @@
     "visited": true
   },
   {
-    "dist_name": "Mzuzu City",
+    "NAME": "🚶‍➡️ Mzuzu City",
     "end_lat": -11.4390924121,
     "end_long": 34.0066192838,
     "start_lat": -13.9203419244,
@@ -120,7 +120,7 @@
     "visited": true
   },
   {
-    "dist_name": "Nkhatabay",
+    "NAME": "🚶‍➡️ Nkhatabay",
     "end_lat": -11.6748006064,
     "end_long": 34.0416907476,
     "start_lat": -13.9203419244,
@@ -128,7 +128,7 @@
     "visited": false
   },
   {
-    "dist_name": "Rumphi",
+    "NAME": "🚶‍➡️ Rumphi",
     "end_lat": -10.8264934304,
     "end_long": 33.8138469002,
     "start_lat": -13.9203419244,
@@ -136,7 +136,7 @@
     "visited": true
   },
   {
-    "dist_name": "Balaka",
+    "NAME": "🚶‍➡️ Balaka",
     "end_lat": -15.03825318,
     "end_long": 35.0574336343,
     "start_lat": -13.9203419244,
@@ -144,7 +144,7 @@
     "visited": true
   },
   {
-    "dist_name": "Blantyre",
+    "NAME": "🚶‍➡️ Blantyre",
     "end_lat": -15.6558968055,
     "end_long": 34.9320353061,
     "start_lat": -13.9203419244,
@@ -152,7 +152,7 @@
     "visited": true
   },
   {
-    "dist_name": "Blantyre City",
+    "NAME": "🚶‍➡️ Blantyre City",
     "end_lat": -15.7899325846,
     "end_long": 35.0507449601,
     "start_lat": -13.9203419244,
@@ -160,7 +160,7 @@
     "visited": true
   },
   {
-    "dist_name": "Chikwawa",
+    "NAME": "🚶‍➡️ Chikwawa",
     "end_lat": -16.1654477352,
     "end_long": 34.7092475145,
     "start_lat": -13.9203419244,
@@ -168,7 +168,7 @@
     "visited": true
   },
   {
-    "dist_name": "Chiradzulu",
+    "NAME": "🚶‍➡️ Chiradzulu",
     "end_lat": -15.7476452573,
     "end_long": 35.2142011371,
     "start_lat": -13.9203419244,
@@ -176,7 +176,7 @@
     "visited": false
   },
   {
-    "dist_name": "Machinga",
+    "NAME": "🚶‍➡️ Machinga",
     "end_lat": -14.9288343441,
     "end_long": 35.5511505318,
     "start_lat": -13.9203419244,
@@ -184,7 +184,7 @@
     "visited": true
   },
   {
-    "dist_name": "Mulanje",
+    "NAME": "🚶‍➡️ Mulanje",
     "end_lat": -15.9384360773,
     "end_long": 35.5104886715,
     "start_lat": -13.9203419244,
@@ -192,7 +192,7 @@
     "visited": true
   },
   {
-    "dist_name": "Mwanza",
+    "NAME": "🚶‍➡️ Mwanza",
     "end_lat": -15.6677726152,
     "end_long": 34.5217361523,
     "start_lat": -13.9203419244,
@@ -200,7 +200,7 @@
     "visited": true
   },
   {
-    "dist_name": "Neno",
+    "NAME": "🚶‍➡️ Neno",
     "end_lat": -15.4593763501,
     "end_long": 34.6959146187,
     "start_lat": -13.9203419244,
@@ -208,7 +208,7 @@
     "visited": true
   },
   {
-    "dist_name": "Nsanje",
+    "NAME": "🚶‍➡️ Nsanje",
     "end_lat": -16.7469052511,
     "end_long": 35.1427117027,
     "start_lat": -13.9203419244,
@@ -216,7 +216,7 @@
     "visited": true
   },
   {
-    "dist_name": "Phalombe",
+    "NAME": "🚶‍➡️ Phalombe",
     "end_lat": -15.6853919027,
     "end_long": 35.6859312692,
     "start_lat": -13.9203419244,
@@ -224,7 +224,7 @@
     "visited": true
   },
   {
-    "dist_name": "Thyolo",
+    "NAME": "🚶‍➡️ Thyolo",
     "end_lat": -16.1054871943,
     "end_long": 35.1452838381,
     "start_lat": -13.9203419244,
@@ -232,7 +232,7 @@
     "visited": true
   },
   {
-    "dist_name": "Zomba",
+    "NAME": "🚶‍➡️ Zomba",
     "end_lat": -15.4224499847,
     "end_long": 35.3524729802,
     "start_lat": -13.9203419244,
@@ -240,7 +240,7 @@
     "visited": true
   },
   {
-    "dist_name": "Zomba City",
+    "NAME": "🚶‍➡️ Zomba City",
     "end_lat": -15.3923020202,
     "end_long": 35.3295152732,
     "start_lat": -13.9203419244,
@@ -248,7 +248,7 @@
     "visited": true
   },
   {
-    "dist_name": "Mangochi",
+    "NAME": "🚶‍➡️ Mangochi",
     "end_lat": -14.3444172491,
     "end_long": 35.1864592536,
     "start_lat": -13.9203419244,
