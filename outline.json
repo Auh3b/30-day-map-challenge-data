@@ -35,8 +35,18 @@
     "subject": "Demography",
     "location": "Malawi",
     "description": "Population density in Malawi according to Facebook using H3 Hexgons",
-    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/4/malawi_h3_6.json",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/4/malawi_h3_7.json",
     "sources": ["OSM"],
-    "properties": ["h3_code", "count", "mean", "max", "min"]
+    "properties": ["h3_code", "sum", "median", "max", "min"]
+  },
+  "5": {
+    "id": "malawi-travel-layer",
+    "title": "Personal Travel",
+    "subject": "Movement",
+    "location": "Malawi",
+    "description": "The places I have been in my own country",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/5/travel_malawi_personal.json",
+    "sources": ["OSM"],
+    "properties": ["dist_name"]
   }
 }
