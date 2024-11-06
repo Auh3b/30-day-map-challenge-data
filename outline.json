@@ -48,5 +48,15 @@
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/5/travel_malawi_personal.json",
     "sources": ["OSM"],
     "properties": ["dist_name"]
+  },
+  "6": {
+    "id": "malawi-raster-layer",
+    "title": "Malawi Raster",
+    "subject": "Elevation",
+    "location": "Malawi",
+    "description": "Malawi Elevation",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/6/mask.png",
+    "sources": ["Open Topography"],
+    "properties": []
   }
 }
