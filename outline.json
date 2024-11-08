@@ -68,5 +68,15 @@
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/7/map.png",
     "sources": ["Open Topography"],
     "properties": []
+  },
+  "8": {
+    "id": "malawi-hdx-layer",
+    "title": "Displaced People in Malawi",
+    "subject": "Humanitarian Crisis",
+    "location": "Malawi",
+    "description": "A map showcasing the origins of displace people that refugees or seeked asylum to Malawi.",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/8/displaced_to_malawi.json",
+    "sources": ["HDX", "Natural Earth"],
+    "properties": []
   }
 }
