@@ -1,3 +1,9 @@
 *.qmd 
 *.parquet
 *.ipynb
+
+*.qgz
+*.bak
+*.pdf
+
+.vscode

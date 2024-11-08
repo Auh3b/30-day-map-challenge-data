@@ -58,5 +58,15 @@
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/6/mask.png",
     "sources": ["Open Topography"],
     "properties": []
+  },
+  "7": {
+    "id": "malawi-vintage-layer",
+    "title": "Likoma Island",
+    "subject": "Old Timey",
+    "location": "Likoma Island, Malawi",
+    "description": "A vintage styled map of Likoma Island of Malawi",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/7/map.png",
+    "sources": ["Open Topography"],
+    "properties": []
   }
 }
