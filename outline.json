@@ -79,7 +79,7 @@
     "sources": ["HDX", "Natural Earth"],
     "properties": []
   },
-  "9": {
+  "10": {
     "id": "malawi-ai-layer",
     "title": "AI Generated Map of Malawi",
     "subject": "GeoAI",
