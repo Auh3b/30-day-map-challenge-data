@@ -1,1 +1,146 @@
-[{"o_pcode":"TUR","a_pcode":"MWI","population":774,"latitude":39.0683719406,"longitude":35.1169001509,"name":"Turkey"},{"o_pcode":"COD","a_pcode":"MWI","population":832712,"latitude":-2.8502757111,"longitude":23.5829558315,"name":"Democratic Republic of the Congo"},{"o_pcode":"RWA","a_pcode":"MWI","population":304492,"latitude":-2.0135144658,"longitude":29.9189639222,"name":"Rwanda"},{"o_pcode":"SLE","a_pcode":"MWI","population":50,"latitude":8.5303537262,"longitude":-11.7952574286,"name":"Sierra Leone"},{"o_pcode":"SOM","a_pcode":"MWI","population":5673,"latitude":4.7523477565,"longitude":45.7267007672,"name":"Somalia"},{"o_pcode":"BDI","a_pcode":"MWI","population":345259,"latitude":-3.3773910754,"longitude":29.9138922954,"name":"Burundi"},{"o_pcode":"SDN","a_pcode":"MWI","population":139,"latitude":15.9905850031,"longitude":29.8626040123,"name":"Sudan"},{"o_pcode":"TZA","a_pcode":"MWI","population":129,"latitude":-6.2577324285,"longitude":34.7529898548,"name":"Tanzania"},{"o_pcode":"ZMB","a_pcode":"MWI","population":107,"latitude":-13.3950675535,"longitude":27.7275919188,"name":"Zambia"},{"o_pcode":"ERI","a_pcode":"MWI","population":90,"latitude":15.4272767514,"longitude":38.6781869279,"name":"Eritrea"},{"o_pcode":"ETH","a_pcode":"MWI","population":2335,"latitude":8.6539991881,"longitude":39.5512557929,"name":"Ethiopia"},{"o_pcode":"ZWE","a_pcode":"MWI","population":152,"latitude":-18.9069879479,"longitude":29.7885483719,"name":"Zimbabwe"},{"o_pcode":"KEN","a_pcode":"MWI","population":15,"latitude":0.5959662522,"longitude":37.7915552867,"name":"Kenya"},{"o_pcode":"UGA","a_pcode":"MWI","population":413,"latitude":1.2954855035,"longitude":32.35755032,"name":"Uganda"},{"o_pcode":"CIV","a_pcode":"MWI","population":105,"latitude":7.553755007,"longitude":-5.6120436452,"name":"C\u00f4te d'Ivoire"},{"o_pcode":"BEL","a_pcode":"MWI","population":15,"latitude":50.652440959,"longitude":4.5808341139,"name":"Belgium"},{"o_pcode":"MOZ","a_pcode":"MWI","population":20853,"latitude":-17.2304489757,"longitude":35.4726159786,"name":"Mozambique"},{"o_pcode":"SSD","a_pcode":"MWI","population":75,"latitude":7.2928901335,"longitude":30.1986175825,"name":null}]
+[
+  {
+    "o_pcode": "TUR",
+    "a_pcode": "MWI",
+    "population": 774,
+    "latitude": 39.0683719406,
+    "longitude": 35.1169001509,
+    "name": "Turkey"
+  },
+  {
+    "o_pcode": "COD",
+    "a_pcode": "MWI",
+    "population": 832712,
+    "latitude": -2.8502757111,
+    "longitude": 23.5829558315,
+    "name": "Democratic Republic of the Congo"
+  },
+  {
+    "o_pcode": "RWA",
+    "a_pcode": "MWI",
+    "population": 304492,
+    "latitude": -2.0135144658,
+    "longitude": 29.9189639222,
+    "name": "Rwanda"
+  },
+  {
+    "o_pcode": "SLE",
+    "a_pcode": "MWI",
+    "population": 50,
+    "latitude": 8.5303537262,
+    "longitude": -11.7952574286,
+    "name": "Sierra Leone"
+  },
+  {
+    "o_pcode": "SOM",
+    "a_pcode": "MWI",
+    "population": 5673,
+    "latitude": 4.7523477565,
+    "longitude": 45.7267007672,
+    "name": "Somalia"
+  },
+  {
+    "o_pcode": "BDI",
+    "a_pcode": "MWI",
+    "population": 345259,
+    "latitude": -3.3773910754,
+    "longitude": 29.9138922954,
+    "name": "Burundi"
+  },
+  {
+    "o_pcode": "SDN",
+    "a_pcode": "MWI",
+    "population": 139,
+    "latitude": 15.9905850031,
+    "longitude": 29.8626040123,
+    "name": "Sudan"
+  },
+  {
+    "o_pcode": "TZA",
+    "a_pcode": "MWI",
+    "population": 129,
+    "latitude": -6.2577324285,
+    "longitude": 34.7529898548,
+    "name": "Tanzania"
+  },
+  {
+    "o_pcode": "ZMB",
+    "a_pcode": "MWI",
+    "population": 107,
+    "latitude": -13.3950675535,
+    "longitude": 27.7275919188,
+    "name": "Zambia"
+  },
+  {
+    "o_pcode": "ERI",
+    "a_pcode": "MWI",
+    "population": 90,
+    "latitude": 15.4272767514,
+    "longitude": 38.6781869279,
+    "name": "Eritrea"
+  },
+  {
+    "o_pcode": "ETH",
+    "a_pcode": "MWI",
+    "population": 2335,
+    "latitude": 8.6539991881,
+    "longitude": 39.5512557929,
+    "name": "Ethiopia"
+  },
+  {
+    "o_pcode": "ZWE",
+    "a_pcode": "MWI",
+    "population": 152,
+    "latitude": -18.9069879479,
+    "longitude": 29.7885483719,
+    "name": "Zimbabwe"
+  },
+  {
+    "o_pcode": "KEN",
+    "a_pcode": "MWI",
+    "population": 15,
+    "latitude": 0.5959662522,
+    "longitude": 37.7915552867,
+    "name": "Kenya"
+  },
+  {
+    "o_pcode": "UGA",
+    "a_pcode": "MWI",
+    "population": 413,
+    "latitude": 1.2954855035,
+    "longitude": 32.35755032,
+    "name": "Uganda"
+  },
+  {
+    "o_pcode": "CIV",
+    "a_pcode": "MWI",
+    "population": 105,
+    "latitude": 7.553755007,
+    "longitude": -5.6120436452,
+    "name": "C\u00f4te d'Ivoire"
+  },
+  {
+    "o_pcode": "BEL",
+    "a_pcode": "MWI",
+    "population": 15,
+    "latitude": 50.652440959,
+    "longitude": 4.5808341139,
+    "name": "Belgium"
+  },
+  {
+    "o_pcode": "MOZ",
+    "a_pcode": "MWI",
+    "population": 20853,
+    "latitude": -17.2304489757,
+    "longitude": 35.4726159786,
+    "name": "Mozambique"
+  },
+  {
+    "o_pcode": "SSD",
+    "a_pcode": "MWI",
+    "population": 75,
+    "latitude": 7.2928901335,
+    "longitude": 30.1986175825,
+    "name": null
+  }
+]
