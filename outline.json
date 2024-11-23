@@ -79,7 +79,7 @@
     "sources": ["HDX", "Natural Earth"],
     "properties": []
   },
-  "10": {
+  "9": {
     "id": "malawi-ai-layer",
     "title": "AI Generated Map of Malawi",
     "subject": "GeoAI",
@@ -87,6 +87,16 @@
     "description": "AI generated map of Lilongwe City, the capitl of Malawi",
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/9/ai_map.webp",
     "sources": ["ChatGPT"],
+    "properties": []
+  },
+  "10": {
+    "id": "malawi-drawn-layer",
+    "title": "Drawn map of Zomba City",
+    "subject": "Drawn Map",
+    "location": "Malawi",
+    "description": "I hand drawn map of Zomba City",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/10/drown_map.png",
+    "sources": ["OSM", "Pen", "Paper", "Memory"],
     "properties": []
   }
 }
