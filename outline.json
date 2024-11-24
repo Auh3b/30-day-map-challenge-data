@@ -98,5 +98,15 @@
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/10/drawn_map.png",
     "sources": ["OSM", "Pen", "Paper", "Memory"],
     "properties": []
+  },
+  "11": {
+    "id": "canadian-shipping-layer",
+    "title": "Shipping Routes in Canadian Arctic Passage",
+    "subject": "Arctic",
+    "location": "Canada",
+    "description": "Shipping routes in Canadia Arctic Passage way",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/11/canadian_shipping.geojson",
+    "sources": ["OSM"],
+    "properties": []
   }
 }
