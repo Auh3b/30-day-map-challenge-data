@@ -108,5 +108,15 @@
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/11/canadian_shipping.geojson",
     "sources": ["OSM"],
     "properties": []
+  },
+  "18": {
+    "id": "building-3D-layer",
+    "title": "Administrative City Centre, Lilongwe City, Malawi",
+    "subject": "3D",
+    "location": "Malawi",
+    "description": "3D Building of City Centre of Lilongwe Malawi inspire Steven Kim work",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/18/mw_ll_city_centre.geojson",
+    "sources": ["OSM"],
+    "properties": []
   }
 }
