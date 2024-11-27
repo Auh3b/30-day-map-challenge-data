@@ -115,7 +115,7 @@
     "subject": "Arctic",
     "location": "Canada",
     "description": "Shipping routes in Canadia Arctic Passage way",
-    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/11/canadian_shipping.geojson",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/16/osm_name_contr.geojson",
     "sources": ["OSM"],
     "properties": []
   },
