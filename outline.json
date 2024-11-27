@@ -109,6 +109,16 @@
     "sources": ["OSM"],
     "properties": []
   },
+  "16": {
+    "id": "canadian-shipping-layer",
+    "title": "Shipping Routes in Canadian Arctic Passage",
+    "subject": "Arctic",
+    "location": "Canada",
+    "description": "Shipping routes in Canadia Arctic Passage way",
+    "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/11/canadian_shipping.geojson",
+    "sources": ["OSM"],
+    "properties": []
+  },
   "18": {
     "id": "building-3D-layer",
     "title": "Administrative City Centre, Lilongwe City, Malawi",
