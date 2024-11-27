@@ -111,10 +111,10 @@
   },
   "16": {
     "id": "canadian-shipping-layer",
-    "title": "Shipping Routes in Canadian Arctic Passage",
-    "subject": "Arctic",
-    "location": "Canada",
-    "description": "Shipping routes in Canadia Arctic Passage way",
+    "title": "Named Open Street Map Points",
+    "subject": "Chloropeth",
+    "location": "Malawi",
+    "description": "Concentration of named points of interest from OSM data in Malawi per district",
     "url": "https://raw.githubusercontent.com/Auh3b/30-day-map-challenge-data/refs/heads/main/data/2024/16/osm_name_contr.geojson",
     "sources": ["OSM"],
     "properties": []
